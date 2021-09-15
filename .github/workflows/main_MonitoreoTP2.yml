@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'MonitoreoTP2'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_736d61d1ef2d4bb9968c25291f506528 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_289cc14bec77439782576d797e4dd048 }}
         package: '*.jar'
